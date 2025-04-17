@@ -20,7 +20,9 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'rs_pub = aims_slam.rs_pub:main'
+            'rs_pub = aims_slam.rs_pub:main',
+            'data_pub = aims_slam.data_pub:main'
+            
         ],
     },
 )

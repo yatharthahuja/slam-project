@@ -1,0 +1,1 @@
+<keyframe_id> <timestamp> <tx> <ty> <tz> <qx> <qy> <qz> <qw>
