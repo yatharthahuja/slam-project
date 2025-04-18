@@ -1,1 +1,1 @@
-<keyframe_id> <timestamp> <tx> <ty> <tz> <qx> <qy> <qz> <qw>
+timestamp x y z q_x q_y q_z q_w
